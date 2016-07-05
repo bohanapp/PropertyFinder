@@ -63,3 +63,7 @@ return (
         <Text style={styles.description}>{property.summary}</Text>
 </View> );
 } }
+
+
+
+module.exports = PropertyView;
